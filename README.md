@@ -50,7 +50,7 @@ luego apretar en el boton *BUSCAR* (se puede ver el listado de los proveedores e
 
 ####
 
-![App Screenshot](https://i.ibb.co/MR0yhcH/3.png)
+![App Screenshot](https://i.ibb.co/pXk0fq1/3.png)
 
 ##
 
